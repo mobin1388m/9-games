@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+#container{
+    position: absolute;
+    width: 800px;
+    transform: translate(-50%,-50%);
+    top: 80%;
+    left: 50%;
+    font-size: 40px;
+}
+#canvas1{
+    position: absolute;
+    width: 800px;
+    height: 700px;
+    margin-left: 32%;
+}
+
+#slider {
+    width: 100%;
+
+}
+p{
+    color: white;
+}
